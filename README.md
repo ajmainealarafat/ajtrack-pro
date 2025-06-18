@@ -1,4 +1,4 @@
-h1 align="center">🌐 AjTrack Pro</h1>
+🌐 AjTrack Pro</h1>
 <p align="center">
   A Powerful & Stylish Terminal-based IP Tracker  
   <br><br>
