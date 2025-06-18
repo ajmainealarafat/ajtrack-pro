@@ -1,4 +1,4 @@
-🌐 AjTrack Pro</h1>
+<h1 align="center">🌐 AjTrack Pro</h1>
 <p align="center">
   A Powerful & Stylish Terminal-based IP Tracker  
   <br><br>
@@ -24,21 +24,22 @@ Whether you're curious about a specific IP or want to see your own — this tool
 
 ## ✨ Features
 
-- 🔍 Track any public IP address
-- 🧑‍💻 View your own IP info
-- 🌐 Get city, region, country, timezone, ISP, and organization
-- 🎨 Rich-powered colorful tables, panels & spinners
-- 💨 Fast, light, and beginner-friendly
+- 🔍 Track any public IP address  
+- 🧑‍💻 View your own IP info  
+- 🌐 Get city, region, country, timezone, ISP, and organization  
+- 🎨 Rich-powered colorful tables, panels & spinners  
+- 💨 Fast, light, and beginner-friendly  
 
 ---
 
 ## 🛠️ Installation
 
 ### 🧱 Requirements
-- Python 3
-- pip
-- git
-- Termux / Linux terminal
+
+- Python 3  
+- pip  
+- git  
+- Termux / Linux terminal  
 
 ---
 
@@ -65,7 +66,7 @@ pip install rich requests
 
 ▶️ Usage
 
-# 6. python ajtrackpro.py
+python ajtrackpro.py
 
 You’ll see a menu like:
 
@@ -75,47 +76,12 @@ You’ll see a menu like:
 [2] 🧑‍💻 Show Own IP Info  
 [3] ❌ Exit
 
-
----
-
-📷 Screenshot
-
-> (Add a screenshot image named screenshot.png in your repo for preview)
-
-
-
-🌐 IP Information
------------------------
-IP Address   : 8.8.8.8
-City         : Mountain View
-Country      : United States
-ISP          : Google LLC
-Timezone     : America/Los_Angeles
-...
-
-
----
-
 📬 Contact
 
 👨‍💻 Author: Ajmaine Al Arafat
-
 📧 Email: ajmainealarafatofficial@gmail.com
-
 🔗 GitHub: @ajmainealarafat
-
 💬 Telegram: @ajmaine_xd
-
-
-
----
-
-🛡️ License
-
-Licensed under the MIT License
-
-
----
 
 🌟 Show Some Love
 
